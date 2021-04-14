@@ -699,6 +699,33 @@
     
 
     
+        <link rel="stylesheet" href="/libs/gitment/gitment-default.css">
+<link rel="stylesheet" href="/css/gitment.css">
+
+<div class="gitment-card card" data-aos="fade-up">
+    <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; padding-left: 20px; top: 15px; padding-bottom: 5px;">
+        <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
+        <span>评论</span>
+    </div>
+    <div id="gitment-content" class="card-content"></div>
+</div>
+
+<script src="/libs/gitment/gitment.js"></script>
+<script>
+var gitment = new Gitment({
+    id: 'Wed Apr 14 2021 15:30:00 GMT+0800',
+    owner: '7suire',
+    repo: 'hexo',
+    oauth: {
+        client_id: 'c59487ff3e5837cb3b77',
+        client_secret: '7467dc1506f6ea5090463524e7672987804ccb71'
+    }
+});
+
+gitment.render('gitment-content');
+</script>
+
+    
 
     
 
