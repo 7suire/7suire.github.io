@@ -75,9 +75,9 @@
       
       <categories>
           
-          <category> 介绍 </category>
-          
           <category> 游戏 </category>
+          
+          <category> 介绍 </category>
           
           <category> 我的世界 </category>
           
@@ -86,13 +86,13 @@
       
         <tags>
             
-            <tag> 介绍 </tag>
-            
-            <tag> 教程 </tag>
-            
             <tag> 游戏 </tag>
             
             <tag> 我的世界 </tag>
+            
+            <tag> 介绍 </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -110,18 +110,18 @@
       
       <categories>
           
-          <category> 介绍 </category>
-          
           <category> 游戏 </category>
+          
+          <category> 介绍 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 介绍 </tag>
-            
             <tag> 游戏 </tag>
+            
+            <tag> 介绍 </tag>
             
             <tag> 直播 </tag>
             
