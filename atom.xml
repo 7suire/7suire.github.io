@@ -63,18 +63,18 @@
     
     
     
-    <category term="游戏" scheme="http://www.7suire.top/categories/%E6%B8%B8%E6%88%8F/"/>
-    
     <category term="教程" scheme="http://www.7suire.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="游戏" scheme="http://www.7suire.top/categories/%E6%B8%B8%E6%88%8F/"/>
     
     <category term="我的世界" scheme="http://www.7suire.top/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
     
+    <category term="联机" scheme="http://www.7suire.top/tags/%E8%81%94%E6%9C%BA/"/>
+    
     <category term="游戏" scheme="http://www.7suire.top/tags/%E6%B8%B8%E6%88%8F/"/>
     
     <category term="我的世界" scheme="http://www.7suire.top/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
-    
-    <category term="联机" scheme="http://www.7suire.top/tags/%E8%81%94%E6%9C%BA/"/>
     
   </entry>
   
@@ -118,7 +118,7 @@
     <link href="http://www.7suire.top/2021/04/14/%E6%9F%92%E5%B2%81%E6%83%B9/"/>
     <id>http://www.7suire.top/2021/04/14/%E6%9F%92%E5%B2%81%E6%83%B9/</id>
     <published>2021-04-14T07:30:00.000Z</published>
-    <updated>2021-04-16T15:16:59.668Z</updated>
+    <updated>2021-04-18T19:22:13.262Z</updated>
     
     
       
