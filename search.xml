@@ -13,7 +13,11 @@
       
       <categories>
           
+          <category> 介绍 </category>
+          
           <category> 游戏 </category>
+          
+          <category> 教程 </category>
           
           <category> 我的世界 </category>
           
@@ -46,7 +50,11 @@
       
       <categories>
           
+          <category> 介绍 </category>
+          
           <category> 游戏 </category>
+          
+          <category> 教程 </category>
           
           <category> 我的世界 </category>
           
@@ -88,13 +96,13 @@
       
         <tags>
             
-            <tag> FPS </tag>
-            
-            <tag> 优化 </tag>
-            
             <tag> 游戏 </tag>
             
             <tag> 我的世界 </tag>
+            
+            <tag> FPS </tag>
+            
+            <tag> 优化 </tag>
             
         </tags>
       
@@ -111,6 +119,8 @@
       
       
       <categories>
+          
+          <category> 介绍 </category>
           
           <category> 游戏 </category>
           
@@ -141,11 +151,13 @@
       
       <categories>
           
+          <category> 介绍 </category>
+          
           <category> 游戏 </category>
           
-          <category> 我的世界 </category>
-          
           <category> 教程 </category>
+          
+          <category> 我的世界 </category>
           
       </categories>
       
@@ -174,11 +186,13 @@
       
       <categories>
           
+          <category> 介绍 </category>
+          
           <category> 游戏 </category>
           
-          <category> 我的世界 </category>
+          <category> 教程 </category>
           
-          <category> 介绍 </category>
+          <category> 我的世界 </category>
           
       </categories>
       
@@ -209,9 +223,9 @@
       
       <categories>
           
-          <category> 游戏 </category>
-          
           <category> 介绍 </category>
+          
+          <category> 游戏 </category>
           
       </categories>
       
