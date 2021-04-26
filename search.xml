@@ -8,7 +8,7 @@
       <link href="2021/04/26/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%87%83%E6%96%99%E7%87%83%E7%83%A7%E6%97%B6%E9%97%B4/"/>
       <url>2021/04/26/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%87%83%E6%96%99%E7%87%83%E7%83%A7%E6%97%B6%E9%97%B4/</url>
       
-        <content type="html"><![CDATA[<h1 id="我的世界熔炉介绍"><a href="#我的世界熔炉介绍" class="headerlink" title="我的世界熔炉介绍"></a>我的世界熔炉介绍</h1><ul><li>熔炉燃烧燃料时长</li><li>熔炉 高炉 烟熏炉 营火介绍</li></ul><hr><p><strong>喜欢的话收藏，转发本网站</strong><br><del><strong>（拒绝白嫖，从我做起）</strong></del><br><strong>不过你也可以白嫖</strong></p><hr><h2 id="熔炉"><a href="#熔炉" class="headerlink" title="熔炉"></a>熔炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-1.jpg" alt="熔炉" title="熔炉"></p><ul><li><p><strong>当燃料和待烧炼的物品放入熔炉时就会开始烧炼，即使玩家关闭界面也会继续。玩家可以通过熔炉有没有点燃、有无火焰的粒子效果来判断熔炉有没有在烧炼。当熔炉开始烧炼时会先用掉一份燃料，并且界面上的火焰图示会被填满，随时间过去火焰会慢慢减少直到消失。火焰消失之前玩家无法使熔炉停止烧炼。火焰消失时，熔炉会使用下一份燃料。如果燃料区没有燃料，燃烧会中断，烧炼的物品也无法转换为成品。如果熔炉中已经没有待烧的物品却还有有火焰尚未用完，火焰仍会随时间减少，此时当火焰消失时，烧炼会中断而不使用下一份燃料。</strong></p></li><li><p><strong>使用熔炉烧一个物品需要10秒钟。界面中的箭头会显示烧炼的进度，如果在火焰消失之前箭头已经填满，则能将烧炼的物品转换为成品并显示在输出区；如果箭头填满前火焰已经消失且没有燃料补充，则箭头的进度会以两倍速度倒退。</strong></p></li><li><p><strong>如果玩家离烧炼的熔炉太远而导致区块卸载，熔炉会暂停烧炼直到玩家回到有效范围之内。玩家进入别的维度或退出游戏后熔炉也会暂停烧炼。玩家有没有睡觉并不会影响到烧炼的快慢，因为烧炼的进度是依据实际玩家在游戏内时长而定，而睡觉时Minecraft会直接将游戏时间跳到早上，烧炼的进度不会因为跳过晚上而瞬间增加。</strong></p></li></ul><h2 id="高炉"><a href="#高炉" class="headerlink" title="高炉"></a>高炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-2.jpg" alt="高炉" title="高炉"></p><ul><li><strong>其GUI界面及使用方法与普通的熔炉相同，且烧炼效率是普通熔炉的2倍，即烧一个物品只需5秒钟。但高炉只能冶炼金属和熔掉金属工具、武器和盔甲。</strong></li></ul><h2 id="烟熏炉"><a href="#烟熏炉" class="headerlink" title="烟熏炉"></a>烟熏炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-3.jpg" alt="烟熏炉" title="烟熏炉"></p><ul><li><strong>其GUI界面及使用方法与普通的熔炉相同，且烧炼效率是普通熔炉的2倍，即烧一个物品只需5秒钟。但烟熏炉只能烧制食物。</strong></li></ul><h2 id="营火"><a href="#营火" class="headerlink" title="营火"></a>营火</h2><ul><li><strong>食物也能通过使用营火烧炼，并且不需要燃料。玩家需要手持配方内列出的食物对着一个点燃的营火并使用它。只要营火仍在燃烧就能无限制地烧制食物。烧炼一个物品需要30秒，是熔炉烧炼时间的3倍。营火一次最多可烧炼4个物品。烧炼完成后，物品会弹出并变成掉落物。</strong></li></ul><h2 id="燃料时间（tick-游戏刻）"><a href="#燃料时间（tick-游戏刻）" class="headerlink" title="燃料时间（tick=游戏刻）"></a>燃料时间（tick=游戏刻）</h2><p>不知道 **<a href="https://7suire.top/2021/04/26/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%88%BB(tcik)/">游戏刻</a>**前面的文章有介绍</p><p>船：1200tick<br>碗：100[仅Java版]<br>碗：200[仅基岩版]<br>弓：200tick[仅基岩版]<br>弓：300tick[仅Java版]<br>竹子：50tick<br>地毯：67tick[仅Java版]<br>羊毛：100tick[仅Java版]<br>树苗：100tick<br>木棍：100tick<br>梯子：300tick<br>原木：300tick<br>箱子：300tick<br>书架：300tick<br>讲台：300tick<br>木板：300tick<br>木桶：300tick<br>木稿：200tick<br>木锹：200tick<br>木锄：200tick<br>木斧：200tick<br>木剑：200tick<br>木门：200tick<br>木炭：1600tick<br>煤炭：1600tick<br>制图台：300tick<br>制箭台：300tick<br>锻造台：300tick<br>织布机：300tick<br>堆肥桶：300tick<br>工作台：300tick<br>陷阱箱：300tick<br>唱片机：300tick<br>音符盒：300tick<br>钓鱼竿：300tick<br>告示牌：200tick<br>烈焰棒：2400tick<br>熔岩桶：20000tcik<br>煤炭块：16000tick<br>脚手架：400tick[仅Java版]<br>脚手架：1200tick[仅基岩版]<br>杜鹃花丛：100tick[新增：JE1.17和BE1.17.0]<br>木制楼梯：300tick<br>木制栅栏：300tick<br>干草带块：4000tick<br>蘑菇方块：300tick[仅基岩版]<br>木制台阶：150tick[仅Java版]<br>木制台阶：300tick[仅基岩版]<br>木制按钮：100tick[仅Java版]<br>木制按钮：300tick[仅基岩版]<br>木制压力板：300tick<br>木制活板门：300tick<br>阳光探测器：300tick</p><hr><p><strong>喜欢的话收藏，转发本网站</strong><br><del><strong>（拒绝白嫖，从我做起）</strong></del><br><strong>不过你也可以白嫖</strong></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="我的世界熔炉介绍"><a href="#我的世界熔炉介绍" class="headerlink" title="我的世界熔炉介绍"></a>我的世界熔炉介绍</h1><ul><li>熔炉燃烧燃料时长</li><li>熔炉 高炉 烟熏炉 营火介绍</li></ul><hr><p><strong>喜欢的话收藏，转发本网站</strong><br><del><strong>（拒绝白嫖，从我做起）</strong></del><br><strong>不过你也可以白嫖</strong></p><hr><h2 id="熔炉"><a href="#熔炉" class="headerlink" title="熔炉"></a>熔炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-1.jpg" alt="熔炉" title="熔炉"></p><ul><li><p><strong>当燃料和待烧炼的物品放入熔炉时就会开始烧炼，即使玩家关闭界面也会继续。玩家可以通过熔炉有没有点燃、有无火焰的粒子效果来判断熔炉有没有在烧炼。当熔炉开始烧炼时会先用掉一份燃料，并且界面上的火焰图示会被填满，随时间过去火焰会慢慢减少直到消失。火焰消失之前玩家无法使熔炉停止烧炼。火焰消失时，熔炉会使用下一份燃料。如果燃料区没有燃料，燃烧会中断，烧炼的物品也无法转换为成品。如果熔炉中已经没有待烧的物品却还有有火焰尚未用完，火焰仍会随时间减少，此时当火焰消失时，烧炼会中断而不使用下一份燃料。</strong></p></li><li><p><strong>使用熔炉烧一个物品需要10秒钟。界面中的箭头会显示烧炼的进度，如果在火焰消失之前箭头已经填满，则能将烧炼的物品转换为成品并显示在输出区；如果箭头填满前火焰已经消失且没有燃料补充，则箭头的进度会以两倍速度倒退。</strong></p></li><li><p><strong>如果玩家离烧炼的熔炉太远而导致区块卸载，熔炉会暂停烧炼直到玩家回到有效范围之内。玩家进入别的维度或退出游戏后熔炉也会暂停烧炼。玩家有没有睡觉并不会影响到烧炼的快慢，因为烧炼的进度是依据实际玩家在游戏内时长而定，而睡觉时Minecraft会直接将游戏时间跳到早上，烧炼的进度不会因为跳过晚上而瞬间增加。</strong></p></li></ul><h2 id="高炉"><a href="#高炉" class="headerlink" title="高炉"></a>高炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-2.jpg" alt="高炉" title="高炉"></p><ul><li><strong>其GUI界面及使用方法与普通的熔炉相同，且烧炼效率是普通熔炉的2倍，即烧一个物品只需5秒钟。但高炉只能冶炼金属和熔掉金属工具、武器和盔甲。</strong></li></ul><h2 id="烟熏炉"><a href="#烟熏炉" class="headerlink" title="烟熏炉"></a>烟熏炉</h2><p><img src="https://cdn.jsdelivr.net/gh/7suire/Images@master/R-3.jpg" alt="烟熏炉" title="烟熏炉"></p><ul><li><strong>其GUI界面及使用方法与普通的熔炉相同，且烧炼效率是普通熔炉的2倍，即烧一个物品只需5秒钟。但烟熏炉只能烧制食物。</strong></li></ul><h2 id="营火"><a href="#营火" class="headerlink" title="营火"></a>营火</h2><ul><li><strong>食物也能通过使用营火烧炼，并且不需要燃料。玩家需要手持配方内列出的食物对着一个点燃的营火并使用它。只要营火仍在燃烧就能无限制地烧制食物。烧炼一个物品需要30秒，是熔炉烧炼时间的3倍。营火一次最多可烧炼4个物品。烧炼完成后，物品会弹出并变成掉落物。</strong></li></ul><h2 id="燃料时间（tick-游戏刻）"><a href="#燃料时间（tick-游戏刻）" class="headerlink" title="燃料时间（tick=游戏刻）"></a>燃料时间（tick=游戏刻）</h2><p>不知道<a href="https://7suire.top/2021/04/26/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%88%BB(tcik)/">游戏刻</a>前面的文章有介绍</p><p>船：1200tick<br>碗：100[仅Java版]<br>碗：200[仅基岩版]<br>弓：200tick[仅基岩版]<br>弓：300tick[仅Java版]<br>竹子：50tick<br>地毯：67tick[仅Java版]<br>羊毛：100tick[仅Java版]<br>树苗：100tick<br>木棍：100tick<br>梯子：300tick<br>原木：300tick<br>箱子：300tick<br>书架：300tick<br>讲台：300tick<br>木板：300tick<br>木桶：300tick<br>木稿：200tick<br>木锹：200tick<br>木锄：200tick<br>木斧：200tick<br>木剑：200tick<br>木门：200tick<br>木炭：1600tick<br>煤炭：1600tick<br>制图台：300tick<br>制箭台：300tick<br>锻造台：300tick<br>织布机：300tick<br>堆肥桶：300tick<br>工作台：300tick<br>陷阱箱：300tick<br>唱片机：300tick<br>音符盒：300tick<br>钓鱼竿：300tick<br>告示牌：200tick<br>烈焰棒：2400tick<br>熔岩桶：20000tcik<br>煤炭块：16000tick<br>脚手架：400tick[仅Java版]<br>脚手架：1200tick[仅基岩版]<br>杜鹃花丛：100tick[新增：JE1.17和BE1.17.0]<br>木制楼梯：300tick<br>木制栅栏：300tick<br>干草带块：4000tick<br>蘑菇方块：300tick[仅基岩版]<br>木制台阶：150tick[仅Java版]<br>木制台阶：300tick[仅基岩版]<br>木制按钮：100tick[仅Java版]<br>木制按钮：300tick[仅基岩版]<br>木制压力板：300tick<br>木制活板门：300tick<br>阳光探测器：300tick</p><hr><p><strong>喜欢的话收藏，转发本网站</strong><br><del><strong>（拒绝白嫖，从我做起）</strong></del><br><strong>不过你也可以白嫖</strong></p>]]></content>
       
       
       <categories>
@@ -83,9 +83,9 @@
           
           <category> 游戏 </category>
           
-          <category> 教程 </category>
-          
           <category> 我的世界 </category>
+          
+          <category> 教程 </category>
           
       </categories>
       
@@ -120,9 +120,9 @@
           
           <category> 游戏 </category>
           
-          <category> 教程 </category>
-          
           <category> 我的世界 </category>
+          
+          <category> 教程 </category>
           
       </categories>
       
@@ -221,9 +221,9 @@
           
           <category> 游戏 </category>
           
-          <category> 教程 </category>
-          
           <category> 我的世界 </category>
+          
+          <category> 教程 </category>
           
       </categories>
       
@@ -256,9 +256,9 @@
           
           <category> 游戏 </category>
           
-          <category> 教程 </category>
-          
           <category> 我的世界 </category>
+          
+          <category> 教程 </category>
           
       </categories>
       
